@@ -74,3 +74,51 @@
 1686581390 source:e:\cb\consoleenginecpp\src\brick.cpp
 	"Brick.h"
 
+1686581893 source:d:\cb\console-cpp-platformer\main.cpp
+	<iostream>
+	<stdio.h>
+	<Windows.h>
+	"player.h"
+	"GObject.h"
+	"settings.h"
+	"Brick.h"
+	"Map.h"
+	<chrono>
+
+1686578989 d:\cb\console-cpp-platformer\include\player.h
+	"Map.h"
+	"settings.h"
+	"GObject.h"
+	<stdio.h>
+	<Windows.h>
+
+1686578726 d:\cb\console-cpp-platformer\include\map.h
+	"settings.h"
+	"utils.h"
+
+1686414475 d:\cb\console-cpp-platformer\include\settings.h
+
+1686580620 d:\cb\console-cpp-platformer\include\utils.h
+	"settings.h"
+
+1686579044 d:\cb\console-cpp-platformer\include\gobject.h
+	"Map.h"
+
+1686581408 d:\cb\console-cpp-platformer\include\brick.h
+	"GObject.h"
+
+1686581390 source:d:\cb\console-cpp-platformer\src\brick.cpp
+	"Brick.h"
+
+1686579251 source:d:\cb\console-cpp-platformer\src\gobject.cpp
+	"GObject.h"
+
+1686580216 source:d:\cb\console-cpp-platformer\src\map.cpp
+	"Map.h"
+	"iostream"
+	<cstring>
+	<fstream>
+
+1686581630 source:d:\cb\console-cpp-platformer\src\player.cpp
+	"player.h"
+
