@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1686407617 source:e:\cb\consoleengine\main.cpp
+	<iostream>
+	<stdio.h>
+	<Windows.h>
+	"player.h"
+	"settings.h"
+	"Map.h"
+	<chrono>
+
+1686247427 e:\cb\consoleengine\include\player.h
+	"Map.h"
+	"settings.h"
+	<stdio.h>
+	<Windows.h>
+
+1686247900 source:e:\cb\consoleengine\src\player.cpp
+	"player.h"
+
+1686404189 source:e:\cb\consoleengine\src\map.cpp
+	"Map.h"
+	"iostream"
+
+1686404147 e:\cb\consoleengine\include\map.h
+	"settings.h"
+
+1686407582 e:\cb\consoleengine\include\settings.h
+
+1686581893 source:e:\cb\consoleenginecpp\main.cpp
+	<iostream>
+	<stdio.h>
+	<Windows.h>
+	"player.h"
+	"GObject.h"
+	"settings.h"
+	"Brick.h"
+	"Map.h"
+	<chrono>
+
+1686578989 e:\cb\consoleenginecpp\include\player.h
+	"Map.h"
+	"settings.h"
+	"GObject.h"
+	<stdio.h>
+	<Windows.h>
+
+1686578726 e:\cb\consoleenginecpp\include\map.h
+	"settings.h"
+	"utils.h"
+
+1686414475 e:\cb\consoleenginecpp\include\settings.h
+
+1686580216 source:e:\cb\consoleenginecpp\src\map.cpp
+	"Map.h"
+	"iostream"
+	<cstring>
+	<fstream>
+
+1686581630 source:e:\cb\consoleenginecpp\src\player.cpp
+	"player.h"
+
+1686579044 e:\cb\consoleenginecpp\include\gobject.h
+	"Map.h"
+
+1686579251 source:e:\cb\consoleenginecpp\src\gobject.cpp
+	"GObject.h"
+
+1686580620 e:\cb\consoleenginecpp\include\utils.h
+	"settings.h"
+
+1686581408 e:\cb\consoleenginecpp\include\brick.h
+	"GObject.h"
+
+1686581390 source:e:\cb\consoleenginecpp\src\brick.cpp
+	"Brick.h"
+
