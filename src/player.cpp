@@ -59,7 +59,6 @@ void Player::update(Map *map, int width, int height)
         if (y >= height)
             y = height - 1;
     }
-    // Modify the map to reflect the player's position
     map->offset.x = x+1;
     map->screen_map[y][1] = 'p';
 }
